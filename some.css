@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  background-color: rgb(199, 194, 194);
+  padding: 30px;
+}
+.page {
+  border: 1px solid #066d3d;
+  background-color: #efefef;
+  padding: inherit;
+}
+h1,
+h3 {
+  color: rgb(230, 33, 33);
+}
+p {
+  color: #111111;
+}
+i {
+  color: rgb(22, 109, 60);
+}
+p {
+  font-size: 75%;
+}
